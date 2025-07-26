@@ -1,0 +1,6 @@
+- [x] print CPU usage (uptime)
+- [x] print processes that takes most CPU % (ps)
+- [x] print usage disk space % (df)
+- [x] print memmory available in system (proc/meminfo)
+- [x] print status of display manager (systemctl status gdm)
+- [x] ping remote server few times
