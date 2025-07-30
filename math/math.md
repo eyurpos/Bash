@@ -1,5 +1,15 @@
 # Math
 
+## Arithmetic Operators
+<pre>
++: Addition
+-: Subtraction
+*: Multiplication
+/: Division
+%: Modulus (remainder of division)
+For exponentiation, use external tools like bc or awk
+</pre>
+
 ## Integers
 - Double round brackets (())
 <pre>
