@@ -1,0 +1,3 @@
+- [] check for files .txt
+- [] create hard-link to it
+- [] ignore already existed links

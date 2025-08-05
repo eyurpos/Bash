@@ -63,3 +63,29 @@ This temporary file used as input for redirection.
 > sudo apt  install shellcheck 
 
 > shellcheck [script]
+
+# Paths
+- full path
+> /home/user/Desktop/file.txt
+
+- get folder
+> dirname [full path]
+
+- get filename
+> basename [full path]
+
+- get extension 
+<pre>
+> filename=file.txt
+>
+> echo "${filename##*.}"
+> txt
+</pre>
+
+- get file nam
+<pre>
+> filename=file.txt
+>
+> echo "${filename%.*}"
+> file
+</pre> 
