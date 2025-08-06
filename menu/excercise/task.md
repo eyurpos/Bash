@@ -1,0 +1,3 @@
+- [x] menu "add new student", list avail, quit
+- [x] new student - name surname age
+- [x] new student - save option
