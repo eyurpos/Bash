@@ -1,3 +1,3 @@
-- [] check for files .txt
-- [] create hard-link to it
-- [] ignore already existed links
+- [x] check for files .txt
+- [x] create hard-link to it
+- [x] ignore already existed links
