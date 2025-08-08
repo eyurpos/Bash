@@ -1,0 +1,4 @@
+- [x] get 10 random question from file
+- [x] random correct answer
+- [x] answer menu
+- [x] counter of results
