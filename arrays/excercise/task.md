@@ -1,0 +1,2 @@
+- [] calculate size of homefolder directories
+- [] check if bigger then threshold, if bigger print
