@@ -1,0 +1,5 @@
+- [x] In which months are work activities recorded for Saturdays?
+- [x] You want to find out in which months' log files the activity "Deployment" appears? Display only the corresponding filenames.
+- [x] How many meetings are recorded in the log files for each of the months?
+- [x] Over the course of all given months, how many times was the activity "Development" performed from "Home" on Fridays?
+- [x] How many hours were worked on Fridays in January? Display only the "Hours Worked," which is in the 5th field (column) of the file.

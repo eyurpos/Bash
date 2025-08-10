@@ -1,0 +1,21 @@
+Date,Day,Start Time,End Time,Hours Worked,Activity,Work Location
+2010-02-01,Monday,09:00 AM,05:30 PM,8.5,Meeting,Office
+2010-02-02,Tuesday,09:15 AM,06:00 PM,8.75,Development,Home
+2010-02-03,Wednesday,08:45 AM,06:15 PM,9.5,Debugging,Office
+2010-02-04,Thursday,09:00 AM,05:30 PM,8.5,Debugging,Home
+2010-02-05,Friday,09:30 AM,04:30 PM,7,Development,Office
+2010-02-08,Monday,09:00 AM,05:30 PM,8.5,Development,Office
+2010-02-09,Tuesday,09:15 AM,06:00 PM,8.75,Debugging,Home
+2010-02-10,Wednesday,08:45 AM,06:15 PM,9.5,Code Review,Office
+2010-02-11,Thursday,09:00 AM,05:30 PM,8.5,Code Review,Home
+2010-02-12,Friday,09:30 AM,04:30 PM,7,Debugging,Home
+2010-02-15,Monday,09:00 AM,05:30 PM,8.5,Code Review,Home
+2010-02-16,Tuesday,09:15 AM,06:00 PM,8.75,Development,Office
+2010-02-17,Wednesday,08:45 AM,06:15 PM,9.5,Debugging,Home
+2010-02-18,Thursday,09:00 AM,05:30 PM,8.5,Development,Office
+2010-02-19,Friday,09:30 AM,04:30 PM,7,Code Review,Office
+2010-02-22,Monday,09:00 AM,05:30 PM,8.5,Debugging,Office
+2010-02-23,Tuesday,09:15 AM,06:00 PM,8.75,Code Review,Home
+2010-02-24,Wednesday,08:45 AM,06:15 PM,9.5,Development,Office
+2010-02-25,Thursday,09:00 AM,05:30 PM,8.5,Debugging,Home
+2010-02-26,Friday,09:30 AM,04:30 PM,7,Development,Home
