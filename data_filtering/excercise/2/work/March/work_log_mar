@@ -1,0 +1,25 @@
+Date,Day,Start Time,End Time,Hours Worked,Activity,Work Location
+2010-03-01,Monday,09:00 AM,05:00 PM,8,Debugging,Home
+2010-03-02,Tuesday,09:15 AM,05:15 PM,8,Code Review,Office
+2010-03-03,Wednesday,08:45 AM,05:15 PM,8.5,Development,Home
+2010-03-04,Thursday,09:00 AM,05:15 PM,8.25,Debugging,Office
+2010-03-05,Friday,09:30 AM,04:45 PM,7.25,Code Review,Home
+2010-03-08,Monday,09:00 AM,05:00 PM,8,Meeting,Office
+2010-03-09,Tuesday,09:15 AM,05:15 PM,8,Development,Office
+2010-03-10,Wednesday,08:45 AM,05:15 PM,8.5,Debugging,Office
+2010-03-11,Thursday,09:00 AM,05:15 PM,8.25,Debugging,Office
+2010-03-12,Friday,09:30 AM,04:45 PM,7.25,Development,Home
+2010-03-15,Monday,09:00 AM,05:00 PM,8,Debugging,Home
+2010-03-16,Tuesday,09:15 AM,05:15 PM,8,Development,Office
+2010-03-17,Wednesday,08:45 AM,05:15 PM,8.5,Code Review,Office
+2010-03-18,Thursday,09:00 AM,05:15 PM,8.25,Debugging,Office
+2010-03-19,Friday,09:30 AM,04:45 PM,7.25,Development,Home
+2010-03-20,Saturday,10:00 AM,04:30 PM,6.5,Debugging,Home
+2010-03-22,Monday,09:00 AM,05:00 PM,8,Meeting,Office
+2010-03-23,Tuesday,09:15 AM,05:15 PM,8,Code Review,Office
+2010-03-24,Wednesday,08:45 AM,05:15 PM,8.5,Debugging,Office
+2010-03-25,Thursday,09:00 AM,05:15 PM,8.25,Development,Office
+2010-03-26,Friday,09:30 AM,04:45 PM,7.25,Code Review,Home
+2010-03-29,Monday,09:00 AM,05:00 PM,8,Development,Home
+2010-03-30,Tuesday,09:15 AM,05:15 PM,8,Debugging,Office
+2010-03-31,Wednesday,08:45 AM,05:15 PM,8.5,Deployment,Office

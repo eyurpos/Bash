@@ -1,0 +1,6 @@
+- [x] Get all lines that start with "Favorite"
+- [x] Get all lines where there is no value set for the option, i.e. Some Preference:
+- [x] Get all lines where there is some some monetary value (indicated by "$")
+- [x] Get all lines where "Travel" is part of the option name (left of ":")
+- [x] Get all lines where where there have been 3 preferences set (separated by ,) like Interests: Coding, Gardening, Space Exploration
+- [x] Get all personal URL associated to Rachel (where her first name is part of the domain), for example https://rachel.dev

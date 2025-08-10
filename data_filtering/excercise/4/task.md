@@ -1,0 +1,4 @@
+- [x] How many requests have been answered with status 200 (successfully)?
+- [x] How many GET request have been issued to .zip files?
+- [x] Can we extract IPv4 IPv6 addresses? Does the same IP ever send multiple request?
+- [x] What is most requested URL from Firefox
